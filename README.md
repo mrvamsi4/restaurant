@@ -10,7 +10,6 @@
 
 <br><br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvamsi4&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
