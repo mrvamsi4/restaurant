@@ -4,7 +4,6 @@
 
 <br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrvamsi4&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 <img width="48%" src="https://streak-stats.demolab.com?user=mrvamsi4&theme=tokyonight&hide_border=true&border_radius=15"/>
 
